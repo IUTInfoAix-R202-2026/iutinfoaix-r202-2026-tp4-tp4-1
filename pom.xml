@@ -36,7 +36,7 @@
         <guice.version>7.0.0</guice.version>
 
         <!-- Test dependencies versions -->
-        <junit.jupiter.version>6.0.3</junit.jupiter.version>
+        <junit.jupiter.version>6.1.0</junit.jupiter.version>
         <assertj.version>3.27.7</assertj.version>
         <testfx.version>4.0.18</testfx.version>
         <mockito.version>5.23.0</mockito.version>
